@@ -1,0 +1,32 @@
+
+
+
+
+body {
+    background-color: lavender;
+}
+
+.row{   
+   display:flex;
+   justify-content: space-around;
+    background-color:black;
+    color:green;
+    font-size:20px;
+    font-family:"Oswald", sans-serif;
+
+}
+.headshot{
+    width:30%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
